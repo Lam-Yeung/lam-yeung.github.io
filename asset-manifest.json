@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f0d0189.css",
+    "main.js": "/static/js/main.a91d92b1.js",
+    "static/media/Lambo.png": "/static/media/Lambo.bbb8b0c33438048c4be5.png",
+    "static/media/Profile.jpg": "/static/media/Profile.8682193e56b155950482.jpg",
+    "static/media/Lam_Yeung_Resume.pdf": "/static/media/Lam_Yeung_Resume.b72513c3ecb839b51bf2.pdf",
+    "index.html": "/index.html",
+    "main.0f0d0189.css.map": "/static/css/main.0f0d0189.css.map",
+    "main.a91d92b1.js.map": "/static/js/main.a91d92b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f0d0189.css",
+    "static/js/main.a91d92b1.js"
+  ]
+}
